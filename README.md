@@ -3,11 +3,11 @@
 
 <h1 align="center">I'm MD. Mehrab Evan</h1>
 <h3 align="center">👔 Professional GitHub Profile: MD. Mehrab Evan</h3>
-🚀 AI-Backend Developer at Solvrz
+<h3 align="center">🚀 AI-Backend Developer at Solvrz</h3>
+<h3 align="center">🌟 Dedicated to Innovation and Problem-Solving : Hello, and welcome to my professional GitHub profile. I am MD. Mehrab Evan, a passionate AI-Backend developer at Solvrz. My role at Solvrz revolves around extensive research and the development of cutting-edge software and services tailored to address emerging challenges.</h3>
+<h3 align="center">👔 Professional GitHub Profile: MD. Mehrab Evan</h3>
 
-🌟 Dedicated to Innovation and Problem-Solving
 
-Hello, and welcome to my professional GitHub profile. I am [Your Name], a passionate AI-Backend developer at Solvrz. My role at Solvrz revolves around extensive research and the development of cutting-edge software and services tailored to address emerging challenges.
 
 ✨ Key Highlights:
 
