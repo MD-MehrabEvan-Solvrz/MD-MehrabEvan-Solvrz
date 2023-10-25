@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"><img align="center" width="400px" src="mehrab_evan_anime2.jpg"/></div>
+###<div align="center"><img align="center" width="400px" src="mehrab_evan_anime2.jpg"/></div>
 <h1 align="center">I'm MD. Mehrab Evan</h1>
 <h3 align="center">It's my professional Github for my workspace. I'm currently working with a high perseverance for Solvrz as an AI-Backend developer. My task is to research and develop various software and services based on new problems. I'm a fast learner Alhamdulillah. I take agile approach to learn and build software. So far I've used Flask Restful APIs for integrating AI services and worked with some large language models, I've also worked with Streamlit for front end using python, Fast API, I'm also learning various Machine learning and AI models which might help Solvrz. It's so amazing to be a part of something like Solvrz. I've a high aspiration to work with Solvrz so that it might one day become a great RND software industry In Sha Allah.</h3>
 
