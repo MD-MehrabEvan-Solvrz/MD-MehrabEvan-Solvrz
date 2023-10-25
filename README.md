@@ -25,7 +25,8 @@ Hello, and welcome to my professional GitHub profile. I am MD. Mehrab Evan, a pa
   </li>
 </ul>
 </p>
-<h3 align="center">🌠 Vision for Solvrz: I aspire to contribute to Solvrz's mission, working diligently towards its transformation into a leading Research and Development (R&D) software industry, In Sha Allah.</h3>
+<h3 align="center">🌠 Vision for Solvrz: </h3>
+<h3 align="center"> I aspire to contribute to Solvrz's mission, working diligently towards its transformation into a leading Research and Development (R&D) software industry, In Sha Allah.</h3>
 
 <h3 align="center">Have a look at Solvrz. [I built the chatbot]</h3>
 <p align="center"><a href="https://solvrz.com/"><img src="solvrz_icon.jpg"></a></p>
