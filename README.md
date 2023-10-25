@@ -11,12 +11,12 @@ Hello, and welcome to my professional GitHub profile. I am MD. Mehrab Evan, a pa
 <p align="center">
 <ul type="circle">
   <li>🔬 Research-Driven Approach: I am committed to staying at the forefront of technology trends and actively engage in research to identify and tackle new challenges.</li>
-  <li>🧠 Rapid Learning: Alhamdulillah, my ability to grasp new concepts quickly empowers me to stay ahead in a dynamic field like AI and software development.</li>
+  <li>🧠 Rapid Learning: Alhamdulillah, my ability to grasp new concepts quickly empowers me to stay ahead in a dynamic field.</li>
   <li>🛠️ Agile Software Development: I embrace the agile approach to both learning and software development, allowing for flexibility and adaptability in my projects.</li>
-  <li>🌐 Tech Stack Proficiency: My skill set includes expertise in: 
+  <li>🌐 Tech Stack Proficiency [my skill set includes expertise according to Solvrz]: 
     <ul type="disc">
       <li>🌿 Flask Restful APIs: Utilized for seamless integration of AI services.</li>
-      <li>🤖 Large Language Models: Experience working with complex language models.</li>
+      <li>🤖 Large Language Models: I Experienced working with complex language models and built 3 services so far.</li>
       <li>🖥️ Streamlit: Used for creating user-friendly front-end interfaces with Python.</li>
       <li>⚡ Fast API: A preferred tool for efficient API development.</li>
       <li>📚 Machine Learning and AI Models: Continuously expanding my knowledge in this domain to contribute to Solvrz's success.</li>
