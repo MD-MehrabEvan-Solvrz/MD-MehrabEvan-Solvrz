@@ -4,7 +4,7 @@
 <h3 align="center">Majoring in computer science and engineering with a strong background in data structures, algorithms, and a variety of programming languages, including C/C++, Java, Python, JS, and PHP. Developed applications for Android, desktop and other platforms using Java and Firebase, web applications using Laravel and React-Laravel combo using REST-API. Occupied as a teaching assistant for different courses and bootcamp instructor at International Islamic University Chittagong in Bangladesh for more than a year. I have high aspirations to improve my career in the fields of AI - ML and to explore about Block-Chain.</h3>
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan-Github-Streak" />
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-MehrabEvan-Solvrz&show_icons=true&locale=en&layout=compact" alt="Mehrab-Evan" /></p>
 </div>
