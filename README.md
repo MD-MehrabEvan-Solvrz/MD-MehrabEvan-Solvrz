@@ -4,7 +4,7 @@
 <h3 align="center">It's my professional Github for my workspace. I'm currently working with my high aspiration with Solvrz as an AI and Backend developer. My task is to research and develop various software based on new problems. I'm a fast learner. I take agile approach to learn and build software. I've a high aspiration to work with Solvrz so that it might one day become a great RND software industry. </h3>
 
 <h3>here have a look at Solvrz. I've developed the chatbot in this Solvrz Website too.</h3>
-<p><a href="https://solvrz.com/"><img src=""></a></p>
+<p><a href="https://solvrz.com/"><img src="solvrz_icon.jpg"></a></p>
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan-Github-Streak" />
