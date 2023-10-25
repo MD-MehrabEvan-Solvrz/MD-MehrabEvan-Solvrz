@@ -1,32 +1,30 @@
 ### Hi there 👋
 <div align="center"><img align="center" width="400px" src="mehrab_evan_anime2.jpg"/></div>
 
-<h1 align="center">I'm MD. Mehrab Evan</h1>
-<h3 align="center">👔 Professional GitHub Profile: MD. Mehrab Evan</h3>
+<h1 align="center">👔 I'm MD. Mehrab Evan</h1>
 <h3 align="center">🚀 AI-Backend Developer at Solvrz</h3>
 <h3 align="center">🌟 Dedicated to Innovation and Problem-Solving : Hello, and welcome to my professional GitHub profile. I am MD. Mehrab Evan, a passionate AI-Backend developer at Solvrz. My role at Solvrz revolves around extensive research and the development of cutting-edge software and services tailored to address emerging challenges.</h3>
-<h3 align="center">👔 Professional GitHub Profile: MD. Mehrab Evan</h3>
+<h3 align="center">✨ Key Highlights:</h3>
+<p align="center">
+<ul type="disc">
+  <li>🔬 Research-Driven Approach: I am committed to staying at the forefront of technology trends and actively engage in research to identify and tackle new challenges.</li>
+  <li>🧠 Rapid Learning: Alhamdulillah, my ability to grasp new concepts quickly empowers me to stay ahead in a dynamic field like AI and software development.</li>
+  <li>🛠️ Agile Software Development: I embrace the agile approach to both learning and software development, allowing for flexibility and adaptability in my projects.</li>
+  <li>🌐 Tech Stack Proficiency: My skill set includes expertise in: 
+    <ul type="circle">
+      <li>🌿 Flask Restful APIs: Utilized for seamless integration of AI services.</li>
+      <li>🤖 Large Language Models: Experience working with complex language models.</li>
+      <li>🖥️ Streamlit: Used for creating user-friendly front-end interfaces with Python.</li>
+      <li>⚡ Fast API: A preferred tool for efficient API development.</li>
+      <li>📚 Machine Learning and AI Models: Continuously expanding my knowledge in this domain to contribute to Solvrz's success.</li>
+      <li>🌿 Flask Restful APIs: Utilized for seamless integration of AI services.</li>
+    </ul>
+  </li>
+</ul>
+</p>
+<h3 align="center">🌠 Vision for Solvrz: I aspire to contribute to Solvrz's mission, working diligently towards its transformation into a leading Research and Development (R&D) software industry, In Sha Allah.</h3>
 
-
-
-✨ Key Highlights:
-
-🔬 Research-Driven Approach: I am committed to staying at the forefront of technology trends and actively engage in research to identify and tackle new challenges.
-
-🧠 Rapid Learning: Alhamdulillah, my ability to grasp new concepts quickly empowers me to stay ahead in a dynamic field like AI and software development.
-
-🛠️ Agile Software Development: I embrace the agile approach to both learning and software development, allowing for flexibility and adaptability in my projects.
-
-🌐 Tech Stack Proficiency: My skill set includes expertise in:
-
-🌿 Flask Restful APIs: Utilized for seamless integration of AI services.
-🤖 Large Language Models: Experience working with complex language models.
-🖥️ Streamlit: Used for creating user-friendly front-end interfaces with Python.
-⚡ Fast API: A preferred tool for efficient API development.
-📚 Machine Learning and AI Models: Continuously expanding my knowledge in this domain to contribute to Solvrz's success.
-🌠 Vision for Solvrz: I aspire to contribute to Solvrz's mission, working diligently towards its transformation into a leading Research and Development (R&D) software industry, In Sha Allah.
-
-<h3 align="center">Have a look at Solvrz. I've developed the chatbot in this Solvrz Website too.</h3>
+<h3 align="center">Have a look at Solvrz. [I built the chatbot]</h3>
 <p align="center"><a href="https://solvrz.com/"><img src="solvrz_icon.jpg"></a></p>
 
 <div align="center">
