@@ -1,7 +1,10 @@
 ### Hi there 👋
 <div align="center"><img align="center" width="300px" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif"/></div>
-<h1 align="center" color="gray">I'm MD. Mehrab Evan</h1>
-<h3 align="center">Majoring in computer science and engineering with a strong background in data structures, algorithms, and a variety of programming languages, including C/C++, Java, Python, JS, and PHP. Developed applications for Android, desktop and other platforms using Java and Firebase, web applications using Laravel and React-Laravel combo using REST-API. Occupied as a teaching assistant for different courses and bootcamp instructor at International Islamic University Chittagong in Bangladesh for more than a year. I have high aspirations to improve my career in the fields of AI - ML and to explore about Block-Chain.</h3>
+<h1 align="center">I'm MD. Mehrab Evan</h1>
+<h3 align="center">It's my professional Github for my workspace. I'm currently working with my high aspiration with Solvrz as an AI and Backend developer. My task is to research and develop various software based on new problems. I'm a fast learner. I take agile approach to learn and build software. I've a high aspiration to work with Solvrz so that it might one day become a great RND software industry. </h3>
+
+<h3>here have a look at Solvrz. I've developed the chatbot in this Solvrz Website too.</h3>
+<p><a href="https://solvrz.com/"><img src=""></a></p>
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan-Github-Streak" />
