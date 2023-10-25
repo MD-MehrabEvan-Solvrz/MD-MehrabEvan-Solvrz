@@ -7,7 +7,7 @@
 <p align="center"><a href="https://solvrz.com/"><img src="solvrz_icon.jpg"></a></p>
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan-Github-Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MehrabEvan-Solvrz&" alt="Mehrab-Evan-Github-Streak" />
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-MehrabEvan-Solvrz&show_icons=true&locale=en&layout=compact" alt="Mehrab-Evan" /></p>
 </div>
